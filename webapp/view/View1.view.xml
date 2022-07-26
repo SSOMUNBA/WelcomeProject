@@ -4,6 +4,8 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <Button id="idbtn" text="SUBMIT"/>
+         <Button id="idbtn1" text="Button from ssecond dev space"/>
+         <Button id="idbtn2" text="Button second dev space"/>
         </content>
     </Page>
 </mvc:View>
